@@ -1,11 +1,11 @@
 # Site settings
-author: Manuel Eduardo Baez Diaz
-title: 
+author: Manuel Baez Diz
+title: Why I decided to study Software Engeneering at Flatiron
 header-img: img/home-bg.png
 email: baezdiazm@yahoo.com
-copyright_name: Manuel Eduardo Baez Diaz
+copyright_name: Manuel Baez Diz
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Story time
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  baezdiazm
